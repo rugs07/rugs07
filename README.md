@@ -1,1 +1,23 @@
-[![Rugwed's GitHub stats](https://github-readme-stats.vercel.app/api?username=rugs07)](https://github.com/rugs07/github-readme-stats)
+<h2 align="center">Hi, I'm Rugwed 👋</h2>
+
+<p align="center">
+  Frontend Developer @Mizzle Cloud (React, Next, Tailwind, Three.js, SVG Animations) <br/>
+  Building beautiful, fast UIs – open to opportunities & freelance Projects ⚡
+</p>
+
+<p align="center">
+  <a href="mailto:tech.rugwed@gmail.com">📧 Email</a> • 
+  <a href="https://rugwedportfolio.netlify.app">🌐 Portfolio</a> • 
+  <a href="https://github.com/rugwedb07">🏢 Company GitHub</a>
+   <a href="https://x.com/Rugs_07">🐦 Twitter</a> • 
+  <a href="https://www.linkedin.com/in/rugwedbodhankar37/">💼 LinkedIn</a>
+</p>
+
+---
+
+### 📊 Personal and Company's GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=rugs07&theme=radical" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=rugwedb07&theme=radical" height="160"/>
+</p>
