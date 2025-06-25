@@ -12,12 +12,3 @@
    <a href="https://x.com/Rugs_07">🐦 Twitter</a> • 
   <a href="https://www.linkedin.com/in/rugwedbodhankar37/">💼 LinkedIn</a>
 </p>
-
----
-
-### 📊 Personal and Company's GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=rugs07&theme=radical" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=rugwedb07&theme=radical" height="160"/>
-</p>
