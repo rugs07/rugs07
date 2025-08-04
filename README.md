@@ -8,7 +8,7 @@
 <p align="center">
   <a href="mailto:tech.rugwed@gmail.com">Email</a> • 
   <a href="https://rugwedportfolio.netlify.app">Portfolio</a> • 
-  <a href="https://github.com/rugwedb07">Company GitHub</a>
+  <a href="https://github.com/rugwedb07">Company GitHub</a> • 
    <a href="https://x.com/Rugs_07">Twitter</a> • 
   <a href="https://www.linkedin.com/in/rugwedbodhankar37/">LinkedIn</a>
 </p>
